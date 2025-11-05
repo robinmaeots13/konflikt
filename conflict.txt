@@ -1,1 +1,4 @@
 Selle seminari ülesanne on tektada merge conflict
+tere
+siin on meie konflikti fail
+siin on kõik väga hästi, sest meie rühmas on ülilahe Marta
