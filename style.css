@@ -1,0 +1,27 @@
+.header {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.hinnakiri {
+    border: 2px solid blue;
+    box-sizing: border-box;
+    font-size: 25px;
+    width: fit-content;  
+}
+
+.broneerimine {
+    border: 2px solid green;
+    box-sizing: border-box;
+    font-size: 25px;
+    width: fit-content;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    padding: 10px;
+    gap: 10px;
+}
