@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Selle seminari ülesanne on tektada merge conflict
 tere
 siin on meie konflikti fail
 siin on kõik väga hästi, sest meie rühmas on ülilahe Marta
+=======
+Selle seminari ülesanne on tektada merge conflict.
+Kõik on  hästi, elu on lahe
+>>>>>>> 7c338c333b76c3f7dc9d4d8a15f5f6cf808887a1
